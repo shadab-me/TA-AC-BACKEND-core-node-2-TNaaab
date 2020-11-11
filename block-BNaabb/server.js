@@ -7,7 +7,7 @@ if(req.method == "POST" && req.url == '/'){
        store = store + chunk;
     });
     req.on('end', () => {
-        console.log(store)
+        console.log(store);
     })
 }
 }
