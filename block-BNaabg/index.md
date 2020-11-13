@@ -16,7 +16,7 @@ Project folder
   - user2.json
   - ... other users
 
-Each user will be stored inside users dircetory by creating a file which will be based on user's username which should be unique.
+Each user will be stored inside users directory by creating a file which will be based on user's username which should be unique.
 
 Each user will have fields:-
 
